@@ -1,0 +1,2 @@
+class NoRomLoaded(Exception):
+    pass
